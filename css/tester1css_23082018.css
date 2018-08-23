@@ -1,0 +1,60 @@
+html, body{
+	font-family: "New Times Roman",sans-serif;
+	margin:0;
+}
+
+header{
+	background-color: #e06304;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 64px;
+	color:#d4fcfc;
+}
+header img{
+border-radius: 100px;
+width: 220px;
+border: 11.5px solid #ecf7c0;
+}
+
+.content{
+	max-width: 900px;
+	margin:0 auto;
+}
+img.big-img{
+	max-width: 100%;
+
+}
+p.caption{
+	font-size: 16px;
+	font-style: italic;
+	color: lightgrey;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	color:#e06304;
+	text-decoration: none;
+}
+footer{
+	margin top: 20px;
+	padding: 20px;
+	background-color:#b3b7a8; 
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+/*<header>
+		<img src="https://scontent-lga3-1.cdninstagram.com/vp/ee5c9b1623541c07d410b982e664d39c/5C018174/t51.2885-19/s150x150/29417199_2086870631558393_1006364485889294336_n.jpg">
+		<h1>Hi.. Im Dan AKA DMC1UP</h1>
+		</header>*/
